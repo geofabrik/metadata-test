@@ -12,6 +12,11 @@
     <nd ref="2"/>
     <nd ref="3"/>
   </way>
+  <way id="2" user="foo" uid="2" changeset="3" timestamp="2017-01-03T00:00:00Z" version="1">
+    <tag k="highway" v="path" />
+    <nd ref="1"/>
+    <nd ref="3"/>
+  </way>
   <relation id="1" user="foo" uid="2" changeset="3" timestamp="2017-01-03T00:00:00Z" version="1">
     <tag k="type" v="route" />
     <tag k="route" v="bus" />
