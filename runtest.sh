@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+# license: CC-0
+
 set -eu
 
 OSMIUM=~/git/osmium-tool/build/osmium
