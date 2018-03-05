@@ -64,7 +64,7 @@ rm -f $OUTPUT_DIR/$TEST8/*
 rm -f $OUTPUT_DIR/$TEST9/*
 
 # metadata variations
-declare -a arr=("none" "version" "version+timestamp" "true")
+declare -a arr=("no" "version" "version+timestamp" "true")
 declare -a progs=("osmium" "osmosis" "osmconvert")
 
 # generate test data from hand-crafted OSM XML files
